@@ -12,3 +12,9 @@ I have a Zoom L12 recorder and, as I slowly assemble my EDM rig and other music 
 I love Logic Pro X for recording music but, as I look to develop my EDM skills, and having the tools I have at hand, I want to record in-sync my various and growing collection of "acid boxen," allowing for the creation of permanent song structure, while allowing for human playing differences with each performance. As the Zoom L12 is a multitake, as well as multitrack, recorder, this also allows for recording of each performance, as well as layering of performances over prerecorded accompanaments giving multiple "pattern" variations for each performance. For example, having two, parallel tracks deriving from the same synth allows for paraphonic variation via multiple synths of the same type, as well as simply performaing volume, pitch and filter changes on the box playing the recording.
 
 In short, this can turn a high bandwidth recorder into an extremely powerful sequencer with nearly unlimited song length (other than the capacity of the SD card being recorded to), while still retaining the essentially "analog" nature of the "live jam" elements popular among EDM producers and fans.
+
+##Roadmap
+
+Within the next few weeks, I'll be adding a Fritzing PCB layout for the prototype, along with some pulse conditioning logic/buffering on the from-tape input line in the right-hand side of the main circuit diagram. (Right of the text, "MIDIline".)
+
+For future plans, as mentioned above, I may merge RetroGnome into this as a MIDI master clock option. However, I want to prove the principles of the basic circuitry first.
