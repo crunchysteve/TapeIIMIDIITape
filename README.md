@@ -3,6 +3,9 @@ An experiment in recording MIDI clock and other data to "tape" (eg 48k/96k/192k 
 
 <img width="1080" alt="Tape2MIDIv2" src="https://github.com/user-attachments/assets/41d17cb4-798a-4f3e-bb8b-d88b67065505" />
 
+## News
+30 September 2025 - have ordered 5 circuit boards for experimentation. Will report as these arrive and are tested on the bench and in the real world. Won't be testing on cassette tape as this only has a quater of the necessary bandwidth (as per Nyquist's Theorem) but the project welcomes the first person with a 32IPS reel-to-reel tape deck, who is able to bypass the audio band filters nondestructively (ie a profession-grade machine) is welcome to request a board in the mail. (Built-up or board only. Snail mail address will be required, I'm happy to post to most countries, but sadly, Australia Post is not posting to USA because of tarrif related issues right now.)
+
 ## But *WHY?!*
 
 I have a Zoom L12 recorder and, as I slowly assemble my EDM rig and other music projects, it occurs to me that MIDI sync is the L12's only major failing. Considering this is 192kHz sampling capable recorder. Nyquist theorem predicts it should be able to easily record the 31250 baud square waves of a MIDI signal and reproduce them on playback, maybe even capable of doing so at 48kHz sample rate with a bit of pulse conditioning, but likely not for 44.1kHz.
