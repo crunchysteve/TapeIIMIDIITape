@@ -1,6 +1,8 @@
 MIT License (Modified)
 
-Copyright (c) 2025 "Crunchysteve" filthynoisesmusic@gmail.com
+Copyright (c) 2025 "Crunchysteve" filthynoisesmusic@gmail.com only commercial 
+and the original author's moral rights reserved. Not for profit use by 
+individuals or communities are welcome.
 
 ### Permissions
 Permission is hereby granted, free of charge, to any person obtaining a copy
