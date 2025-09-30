@@ -1,4 +1,4 @@
-# TapeIIMIDIIITape
+# TapeIIMIDIITape
 An experiment in recording MIDI clock and other data to "tape" (eg 48k/96k/192k digital recorders without sync capabilities) and syncing MIDI systems to "tape" playback. This project is pure hardware, with no code, but I may merge "[RetroGnome](https://github.com/crunchysteve/RetroGnome)" with it, as an included master clock system for recording...
 
 <img width="1080" alt="Tape2MIDIv2" src="https://github.com/user-attachments/assets/41d17cb4-798a-4f3e-bb8b-d88b67065505" />
