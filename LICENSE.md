@@ -2,7 +2,7 @@ MIT License (Modified)
 
 Copyright (c) 2025 "Crunchysteve" filthynoisesmusic@gmail.com
 
-**Permission**
+### Permissions
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -10,7 +10,7 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-**Modification**
+### Modification
 Provisions for commercial use of all of this project, or any part thereof, 
 requires either, a commitment to financial support (in the form of a per unit 
 licence), or ongoing contributions of in-kind development/refinement of any
@@ -19,7 +19,7 @@ improvments or code for any microcontroller additions, along with strict
 adherance to keeping this project open source. This modification also applies
 to the author(s)/maintainer(s) of this project.
 
-**Terms**
+### Terms
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software. Some parts of the circuit 
 diagram are derived from the MIDI standards and are not the intellectual
