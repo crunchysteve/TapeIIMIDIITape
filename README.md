@@ -18,6 +18,6 @@ In short, this can turn a high bandwidth recorder into an extremely powerful seq
 
 ##Roadmap
 
-~~Within the next few weeks, I'll be adding a Fritzing PCB layout for the prototype, along with some pulse conditioning logic/buffering on the from-tape input line in the right-hand side of the main circuit diagram. (Right of the text, "MIDIline".)~~ Files added. Pulse conditioning is handled by the optocoupler. Awaiting a prototype board for testing MIDI with my Zoom X12. As MIDI in this context is mostly MIDI clock and sporadic notes and beats, I suspect, despite 32k nominal bandwidth, and 20k audio filtering, I doubt enough signal strength will be lost that it can't be recovered by a bit of amplification.
+~~Within the next few weeks, I'll be adding a Fritzing PCB layout for the prototype, along with some pulse conditioning logic/buffering on the from-tape input line in the right-hand side of the main circuit diagram. (Right of the text, "MIDIline".)~~ Files added. Pulse conditioning is handled by the optocoupler. Awaiting a prototype board for testing MIDI with my Zoom L-12. As MIDI in this context is mostly MIDI clock and sporadic notes and beats, I suspect, despite 32k nominal bandwidth, and 20k audio filtering, I doubt enough signal strength will be lost that it can't be recovered by a bit of amplification.
 
 For future plans, as mentioned above, I may merge RetroGnome into this as a MIDI master clock option. However, I want to prove the principles of the basic circuitry first.
