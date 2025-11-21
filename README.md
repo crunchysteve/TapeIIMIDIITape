@@ -1,3 +1,6 @@
+# 'Sup?
+A prototype circuitboard has arrived from a supplier and I've done basic trace checking but life stuff is in the way of plans at the moment. Will detail more when I can get to testing the circuit with some simple digital signals, before moving on to MIDI transmission.
+
 # TapeIIMIDIITape
 An experiment in recording MIDI clock and other data to "tape" (eg 48k/96k/192k digital recorders without sync capabilities) and syncing MIDI systems to "tape" playback. This project is pure hardware, with no code, but I may merge "[RetroGnome](https://github.com/crunchysteve/RetroGnome)" with it, as an included master clock system for recording...
 
